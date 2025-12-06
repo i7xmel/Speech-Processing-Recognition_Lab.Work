@@ -13,6 +13,11 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Found Linear Interpolation performs better than Zero-Order Hold
 
 **Screenshot**
+<img width="515" height="464" alt="image" src="https://github.com/user-attachments/assets/e62028fb-2eae-4c19-bead-941afcaf565a" />
+<img width="807" height="384" alt="image" src="https://github.com/user-attachments/assets/4ec3e27e-2358-4f04-944a-9a2d254f9b39" />
+<img width="792" height="594" alt="image" src="https://github.com/user-attachments/assets/7566c2ce-4a2a-4239-b125-d34959229fc2" />
+
+
 
 ---
 
@@ -22,7 +27,12 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Compared time-domain vs frequency-domain representations
 - Showed how different signals appear in frequency spectrum
 
-**Screenshot Placeholder**
+**Screenshot**
+<img width="796" height="347" alt="image" src="https://github.com/user-attachments/assets/f4af7e7a-3325-4e9b-ba28-fb9354c8458d" />
+<img width="767" height="352" alt="image" src="https://github.com/user-attachments/assets/34cc3c98-fde9-4425-bd1c-6f0ab1418a90" />
+<img width="825" height="394" alt="image" src="https://github.com/user-attachments/assets/5a9b52da-4f43-4eed-bf96-cb54932783fb" />
+<img width="793" height="358" alt="image" src="https://github.com/user-attachments/assets/05a7d8c7-7fc5-46d9-ab2b-e62e4e78a873" />
+
 
 ---
 
@@ -33,7 +43,9 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Implemented timeout and error handling
 - Successfully recognized spoken phrase "hello my name is Ismail Basheer"
 
-**Screenshot Placeholder**
+**Screenshot**
+<img width="695" height="162" alt="image" src="https://github.com/user-attachments/assets/28b918b2-49f6-49c2-b940-1b25ad2c672c" />
+
 
 ---
 
@@ -45,7 +57,9 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Compared with known vowel formant values
 - Visualized frequency response of vocal tract filter
 
-**Screenshot Placeholder**
+**Screenshot**
+<img width="803" height="418" alt="image" src="https://github.com/user-attachments/assets/8e129bea-0163-4638-bce0-0ad15d21ec9d" />
+<img width="810" height="502" alt="image" src="https://github.com/user-attachments/assets/39cb312e-8908-4d5b-94c4-d178615a1519" />
 
 ---
 
@@ -56,7 +70,10 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Visualized aligned signals showing amplitude differences
 - Demonstrated timing normalization while preserving signal features
 
-**Screenshot Placeholder**
+**Screenshot**
+<img width="814" height="450" alt="image" src="https://github.com/user-attachments/assets/a6ddd145-3ee4-435f-beb7-0fbc5eb6c33e" />
+<img width="836" height="438" alt="image" src="https://github.com/user-attachments/assets/185365d7-ce1f-4853-9210-c26f34af50b8" />
+
 
 ---
 
@@ -67,7 +84,10 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Calculated DTW distance (3.0) indicating high similarity
 - Demonstrated alignment of sequences with different lengths
 
-**Screenshot Placeholder**
+**Screenshot**
+<img width="797" height="562" alt="image" src="https://github.com/user-attachments/assets/3bf79753-a4b9-4dcb-96ee-30c6f3b7414a" />
+<img width="810" height="755" alt="image" src="https://github.com/user-attachments/assets/a5d5b638-fc38-47fd-954f-37caf362bfb7" />
+
 
 ---
 
@@ -78,7 +98,9 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Generated random phoneme and observation sequences
 - Showed probabilistic state transitions in speech
 
-**Screenshot Placeholder**
+**Screenshot**
+<img width="767" height="473" alt="image" src="https://github.com/user-attachments/assets/3673f85e-9f31-4d78-877a-ff214eb87baf" />
+
 
 ---
 
@@ -90,14 +112,9 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Computed probability of decoded path (0.03704)
 - Successfully decoded "hello" from acoustic features
 
-**Screenshot Placeholder**
+**Screenshot**
+<img width="786" height="156" alt="image" src="https://github.com/user-attachments/assets/9a467a31-f7cf-40d0-acb6-caff8d2182d7" />
 
-## Technical Requirements
-- Python 3.x
-- Libraries: librosa, numpy, scipy, matplotlib, speechrecognition, scikit-learn
 
-## Usage
-```bash
-pip install -r requirements.txt
-# Run individual programs as needed
-```
+
+
