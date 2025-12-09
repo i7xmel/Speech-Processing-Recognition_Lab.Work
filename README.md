@@ -12,6 +12,7 @@ This repository contains 8 practical programs implementing fundamental speech pr
 - Calculated and compared MSE for different sampling rates and methods
 - Found Linear Interpolation performs better than Zero-Order Hold
 
+
 **Screenshot**
 <img width="515" height="464" alt="image" src="https://github.com/user-attachments/assets/e62028fb-2eae-4c19-bead-941afcaf565a" />
 <img width="807" height="384" alt="image" src="https://github.com/user-attachments/assets/4ec3e27e-2358-4f04-944a-9a2d254f9b39" />
